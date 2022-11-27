@@ -203,27 +203,64 @@ ion-icon {
 
 }
 
-/* end BUTTONS CSS/*
+/* end BUTTONS CSS*/
+
+
+main,
+.styles,
+.sizes,
+.dropdowns,
+.inks,
+.icons {
+  container-type: size;
+}
+
+body {
+  container-type: inline-sizes;
+  container-name: body;
+}
 
 
 
 
 
 
+@container (min-width:320px) and (max-width:480px) {
+
+  .styles {
+
+    background-color: #D9DDDC;
+  }
+
+}
 
 
 
+@container (min-width:481px) and (max-width:768px) {
+
+  .styles {
+    background-color: #D9DDDC;
+  }
+
+}
 
 
 
+@container (min-width:769px) and (max-width:1023px) {
+
+  .styles {
+    background-color: #D9DDDC;
+  }
 
 
 
+}
 
 
+@container (min-width:1024px) and (max-width:1200px) {
 
+  .styles {
+    background-color: #D9DDDC;
+  }
 
-
-
-
-/* END Icons CSS /*
+}
