@@ -206,18 +206,11 @@ ion-icon {
 /* end BUTTONS CSS*/
 
 
-main,
-.styles,
-.sizes,
-.dropdowns,
-.inks,
-.icons {
-  container-type: size;
-}
+/*CONTAIINERS Queries*/
 
-body {
+.container {
   container-type: inline-sizes;
-  container-name: body;
+  container-name: container box;
 }
 
 
@@ -227,9 +220,10 @@ body {
 
 @container (min-width:320px) and (max-width:480px) {
 
-  .styles {
 
-    background-color: #D9DDDC;
+
+  p {
+    font-size: 2rem;
   }
 
 }
@@ -238,8 +232,8 @@ body {
 
 @container (min-width:481px) and (max-width:768px) {
 
-  .styles {
-    background-color: #D9DDDC;
+  .container-box {
+    background-color: red;
   }
 
 }
