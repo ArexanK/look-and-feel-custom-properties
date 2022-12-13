@@ -2,13 +2,13 @@
 
 # Look & Feel custom properties - Living Styleguide (buttons page)
 
-##📚Inhoudsopgave
+## 📚Inhoudsopgave
 - Beschrijving
 - Kenmerken
 - Bronnen
 - Licentie
 
-##📝 Beschrijving
+## 📝 Beschrijving
 
 
 ##🖇Kenmerken
@@ -27,12 +27,12 @@ GEBRUIKTE TECHNIEKEN 🛠️:
  COMMUNICATIE MIDDELEN 🗣️:
 - Microsoft Teams
 
-##🖥 Gebruik
+## 🖥 Gebruik
 
 
 
 
-##📌Bronnen
+## 📌Bronnen
 - www.oba.nl
 - www.google.nl
 - www.mdn.com
