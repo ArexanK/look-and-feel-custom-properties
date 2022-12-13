@@ -24,7 +24,7 @@ GEBRUIKTE TECHNIEKEN 🛠️:
 - HTML
 - CSS
 - Javascript (menu)
-- COMMUNICATIE MIDDELEN 🗣️:
+ COMMUNICATIE MIDDELEN 🗣️:
 - Microsoft Teams
 
 ##🖥 Gebruik
