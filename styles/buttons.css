@@ -233,8 +233,14 @@ ion-icon {
 @container (min-width:481px) and (max-width:768px) {
 
   .container-box {
-    background-color: red;
+    background-color: #D9DDDC;
+
   }
+
+  p {
+    font-size: 2rem;
+  }
+
 
 }
 
