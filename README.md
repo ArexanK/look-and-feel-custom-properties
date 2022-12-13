@@ -1,9 +1,42 @@
-> _Fork_ deze deeltaak en ga aan de slag. 
-Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+
 
 # Naam deeltaak
 
+##📚Inhoudsopgave
+- Beschrijving
+- Kenmerken
+- Bronnen
+- Licentie
+
+##📝 Beschrijving
+
+
+##🖇Kenmerken
+Lijst met gebruikte tools, technieken en communicatie middelen.
+
+TOOLS 🧰:
+- VSCode
+- Miro
+- Illustrator
+- Pen & Papier
+- Laptop
+GEBRUIKTE TECHNIEKEN 🛠️:
+- HTML
+- CSS
+- Javascript (menu)
+- COMMUNICATIE MIDDELEN 🗣️:
+- Microsoft Teams
+
+##🖥 Gebruik
+
+
+
+
+##📌Bronnen
+- www.oba.nl
+- www.google.nl
+- www.mdn.com
+- https://miro.com/app/board/uXjVPEczUE0=/
 
 ## Licentie
 
