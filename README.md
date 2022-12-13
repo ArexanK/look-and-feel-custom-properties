@@ -1,6 +1,6 @@
 
 
-# Naam deeltaak
+# Look & Feel custom properties - Living Styleguide (buttons page)
 
 ##📚Inhoudsopgave
 - Beschrijving
