@@ -18,7 +18,7 @@
 ## 📝 Beschrijving
 
 
-##🖇Kenmerken
+## 🖇Kenmerken
 Lijst met gebruikte tools, technieken en communicatie middelen.
 
 TOOLS 🧰:
