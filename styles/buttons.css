@@ -206,11 +206,67 @@ ion-icon {
 /* end BUTTONS CSS*/
 
 
-/*CONTAIINERS Queries*/
+@media (max-width: 599px) {
 
-.container {
-  container-type: inline-sizes;
-  container-name: container box;
+  /* styles for extra small screens go here */
+  p {
+    font-size: 1.25em;
+    font-weight: bold;
+    min-height: 300px;
+    max-width: 60rem;
+  }
+
+  ul {
+    flex-direction: column;
+  }
+
+
+}
+
+@media (min-width: 600px) and (max-width: 899px) {
+
+  /* styles for small screens go here */
+  p {
+    font-size: 1.25em;
+    min-height: 300px;
+    max-width: 60rem;
+
+  }
+
+  ul {
+    flex-direction: column;
+  }
+
+
+}
+
+@media (min-width: 900px) and (max-width: 1199px) {
+
+  /* styles for medium screens go here */
+  p {
+    font-size: 1em;
+    min-height: 200px;
+    max-width: 60rem;
+    margin: 0 auto;
+
+  }
+
+}
+
+@media (min-width: 1200px) {
+
+  /* styles for large screens go here */
+  p {
+    font-size: 1em;
+    min-height: 100px;
+    max-width: 60rem;
+
+
+  }
+
+
+
+
 }
 
 
@@ -218,12 +274,37 @@ ion-icon {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*CONTAIINERS Queries*/
+
+/*.container {
+  container-type: inline-sizes;
+  container-name: container box;
+}
+
+
 @container (min-width:320px) and (max-width:480px) {
 
 
 
   p {
-    font-size: 2rem;
+   
+    font-size: 1.25em;
+    min-height: 300px;
+    max-width: 60rem;
   }
 
 }
@@ -238,12 +319,15 @@ ion-icon {
   }
 
   p {
-    font-size: 2rem;
+    
+    font-size: 1em;
+    min-height: 200px;
+    max-width: 60rem;
+    margin: 0 auto;
   }
 
 
 }
-
 
 
 @container (min-width:769px) and (max-width:1023px) {
@@ -264,3 +348,4 @@ ion-icon {
   }
 
 }
+*/
