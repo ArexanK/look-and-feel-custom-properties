@@ -2,16 +2,23 @@
 
 # Look & Feel custom properties - Living Styleguide (buttons page)
 
-##📚Inhoudsopgave
+
+<img width="1433" alt="Screenshot 2022-12-14 at 08 59 31" src="https://user-images.githubusercontent.com/94745953/207539844-daaa4942-11f9-4cd6-8bb3-787bc63a5329.png">
+
+
+
+
+
+## 📚Inhoudsopgave
 - Beschrijving
 - Kenmerken
 - Bronnen
 - Licentie
 
-##📝 Beschrijving
+## 📝 Beschrijving
 
 
-##🖇Kenmerken
+## 🖇Kenmerken
 Lijst met gebruikte tools, technieken en communicatie middelen.
 
 TOOLS 🧰:
@@ -27,12 +34,12 @@ GEBRUIKTE TECHNIEKEN 🛠️:
  COMMUNICATIE MIDDELEN 🗣️:
 - Microsoft Teams
 
-##🖥 Gebruik
+## 🖥 Gebruik
 
 
 
 
-##📌Bronnen
+## 📌Bronnen
 - www.oba.nl
 - www.google.nl
 - www.mdn.com
